@@ -163,14 +163,8 @@ div.parent:hover #navbarNav {
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
-.footer { 
-    background-image: url(../images/Paris\ 2.jpg);
-    height: 100%;
-    background-attachment: fixed;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    padding: 5%;
+.footer {
+    background-color: black;
 }
 
 .serv ul {
