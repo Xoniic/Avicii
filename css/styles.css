@@ -181,3 +181,12 @@ div.parent:hover #navbarNav {
     margin-bottom: 100px;
 }
 
+
+.carousel-item {
+    height: 100px;
+    color: white;
+}
+
+.carousel-inner{
+    margin-top: 50px;
+}
