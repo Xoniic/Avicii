@@ -190,3 +190,9 @@ div.parent:hover #navbarNav {
 .carousel-inner{
     margin-top: 50px;
 }
+.center {
+    display: block;
+    margin-left: 49%;
+    margin-right: 49%;
+    width: 50%;
+  }
