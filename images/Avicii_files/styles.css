@@ -1,0 +1,198 @@
+body,
+html {
+    height: 100%;
+}
+
+.navbar {
+    padding-left: 5% !important;
+    padding-right: 5% !important;
+    padding-top: 3% !important;
+}
+
+.avicii-white {
+    background-image: url(../images/avicii-white.jpg);
+    height: 100%;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.about {
+    text-align: center;
+    color: black;
+    background-color: #d3d3d3;
+    width: 100%;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.avicii-dark {
+    background-image: url(../images/avicii-dark.jpg);
+    height: 100%;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h2 {
+    padding-top: 3%;
+    font-family: 'Sacramento', cursive;
+    font-size: 75px;
+}
+
+p {
+    font-family: 'Righteous', cursive;
+}
+
+.avicii-icon {
+    margin-top: auto;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+    display: block;
+
+}
+
+.al {
+    width: 35%;
+    padding-top: 3%;
+    padding-bottom: 3%;
+}
+
+.albums {
+    background-color: white;
+    size: 50%;
+    padding-top: 1%;
+    padding-left: 3%;
+    padding-right: 3%;
+    margin-bottom: 0 !important;
+}
+
+.card-deck .card {
+    min-width: 220px;
+}
+
+.container {
+    max-width: 1000px;
+}
+
+.album-photos {
+    height: 50%;
+    width: 100%;
+    background-image: url(../images/all-album-images.png);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.navbar-brand {
+    transition: 2s;
+    font-size: 38px;
+    font-weight: bold;
+    margin-top: 1em;
+}
+
+.navbar-brand:hover {
+
+    transition: 1s;
+    /* -ms-transform: rotate(20deg);  */
+    transform: rotate(90deg);
+}
+
+.navbar-toggler {
+    background-color: lightgray;
+}
+
+.navbar-toggler-icon {
+    background-color: lightgrey;
+    /* opacity: 70%; */
+    opacity: 70%;
+    height: 50px;
+    width: 50px;
+}
+
+#navbarNav {
+    display: none;
+
+}
+
+.parent {}
+
+div.parent:hover #navbarNav {
+    display: block;
+
+}
+
+.items {
+    text-align: left;
+    position: absolute;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 5px;
+    padding-right: 0;
+    margin-right: 0;
+    font-weight: bold;
+}
+
+.carousel {
+    background-color: black;
+    text-align: center;
+    padding-bottom: 50px;
+    min-height: 250px;
+}
+
+
+
+.albums-background {
+    background-image: url(../images/avicii-picture.jpeg);
+    height: 100%;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.nav-link {
+    color: grey !important;
+}
+
+#navbarNav {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.footer {
+    background-color: black;
+}
+
+.serv ul {
+    display: flex;
+    flex-wrap: wrap;
+    padding-left: 0;
+  }
+  
+  .serv ul li {
+    text-align: center;
+    list-style: none;
+    flex: 0 0 100%;
+    color: white;
+    margin-bottom: 100px;
+}
+
+
+.carousel-item {
+    height: 100px;
+    color: white;
+}
+
+.carousel-inner{
+    margin-top: 50px;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
